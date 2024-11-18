@@ -1,0 +1,3 @@
+redis:
+  primary:
+    url: redis://localhost:6379/0
